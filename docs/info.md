@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+implements a 4x4 array multiplier
 
 ![Block Diagram](diagram.png)
 
@@ -18,4 +18,4 @@ follow test/README.md
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None

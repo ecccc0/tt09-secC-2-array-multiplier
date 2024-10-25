@@ -17,7 +17,7 @@ module tt_um_c_2_array_mult (
 );
 
   // All output pins must be assigned. If not used, assign to 0.
-  .array_mult_structural(uio_in[3:0], uio_in[7:4], uio_out);
+  .array_mult_structural(ui_in[3:0], ui_in[7:4], uo_out);
 
   assign uio_out = 0;
   assign uio_oe  = 0;

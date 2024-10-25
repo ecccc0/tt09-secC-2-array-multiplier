@@ -3,7 +3,7 @@ project:
   title:        "4-bit-multiplier"      # Project title
   author:       "Eric Cheung, Bethel Sisay"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "4X4 array multiplier"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 

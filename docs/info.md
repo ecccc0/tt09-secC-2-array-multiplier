@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-implements a 4x4 array multiplier
+implements a 4x4 array multiplier, as shown in the schematic below
 
 ![Block Diagram](diagram.png)
 

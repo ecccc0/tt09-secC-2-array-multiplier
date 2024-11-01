@@ -15,6 +15,7 @@ implements a 4x4 array multiplier
 ## How to test
 
 follow test/README.md
+Use test/test.py to add test cases
 
 ## External hardware
 
